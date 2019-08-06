@@ -1,6 +1,6 @@
 # flutter_text_animator
 
-A new Flutter project.
+A customizable text animator
 
 ## Getting Started
 
