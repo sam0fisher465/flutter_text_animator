@@ -6,7 +6,7 @@ A customizable text animator
 Copy the folder "lib/text_animator" to your project and use it as shown in the description below :)
 
 ### Regular Animation
-![](regular_loop.gif)
+![](regular-loop.gif)
 
 ### Opacity Animation
 ![](opacity.gif)
