@@ -3,14 +3,19 @@
 A customizable text animator
 
 ## Getting Started
+Copy the folder "lib/text_animator" to your project and use it as shown in the description below :)
 
-This project is a starting point for a Flutter application.
+### Regular Animation
+![](regular loop.gif)
 
-A few resources to get you started if this is your first Flutter project:
+### Opacity Animation
+![](opacity.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Gradient Animation
+![](gradient.gif)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Typer Animation
+![](typer.gif)
+
+## Copyright
+Use this tool however you like, just aknowledge that i developed it :).
