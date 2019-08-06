@@ -1,4 +1,4 @@
-# flutter_text_animator
+# Flutter Text Animator
 
 A customizable text animator
 
